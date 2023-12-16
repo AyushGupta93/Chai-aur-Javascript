@@ -7,7 +7,7 @@ let accountState;
 // accountId = 2 // not allowed
 
 
-accountEmail = "hc@hc.com"
+accountEmail = "ayush@ag.com"
 accountPassword = "21212121"
 accountCity = "Bengaluru"
 
